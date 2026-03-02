@@ -56,7 +56,9 @@ I created several worksheets, each focused on one question. These were later ass
 
 ## Main dashboard — what each workbook shows
 
-<img alt="Main dashboard" src="https://github.com/user-attachments/assets/946e28d7-13c7-4636-bd42-b98a98a59ce9" style="max-width:100%; height:auto;">
+<img width="1200" height="509" alt="Main dashboard"
+     src="https://github.com/user-attachments/assets/946e28d7-13c7-4636-bd42-b98a98a59ce9"
+     style="object-fit:contain;" />
 
 
 ### Events by continents (Treemap)
@@ -92,7 +94,9 @@ The dashboard can be filtered either by the event country (list on the right), o
 ---
 
 ## Fights & Fighters dashboard — distributions + event locator
-<img alt="Fights and fighters dashboard" src="https://github.com/user-attachments/assets/06ca1cb8-dc73-414b-a3c0-b6337222d251" style="max-width:100%; height:auto;">
+<img width="1200" height="509" alt="Main dashboard"
+     src="https://github.com/user-attachments/assets/946e28d7-13c7-4636-bd42-b98a98a59ce9"
+     style="object-fit:contain;" />
 
 
 This dashboard focuses on “what a typical tournament looks like” using **distributions** (histograms/buckets), and adds a feature to quickly locate a specific tournament inside those distributions. 
